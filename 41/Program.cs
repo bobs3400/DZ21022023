@@ -1,5 +1,4 @@
 ﻿Console.Clear();
-link1:
 Console.WriteLine("Введите элементы массива через пробел: ");
 string elements = Console.ReadLine();
 int[] baseArray = GetArrayFromString(elements);
